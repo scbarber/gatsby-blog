@@ -37,7 +37,10 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p>
+            <p
+              style={{
+                paddingTop: rhythm(.5),
+              }}>
               Written by a software engineer who lives and works in the Pacific Northwest.
             </p>
           </div>
