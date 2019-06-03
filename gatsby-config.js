@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `The Unemployed Diaries`,
-    author: `S.C.B.`,
-    description: `Chronicling the life of an unemployed software engineer`,
-    siteUrl: `https://stupefied-archimedes-afae01.netlify.com`,
+    title: `Gatsby Starter Blog`,
+    author: `Kyle Mathews`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `scbarber`,
+      twitter: `kylemathews`,
     },
   },
   plugins: [
