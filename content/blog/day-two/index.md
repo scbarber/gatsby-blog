@@ -1,5 +1,6 @@
 ---
-title: Day Two: What About Faith?
+title: "Day Two: What About Faith?"
+description: "Today is a day of waiting, with respect to employment, but as a man of faith, today is also a day in which I go to church for fellowship and encouragement."
 date: "2019-06-02T14:10:32.169Z"
 ---
 

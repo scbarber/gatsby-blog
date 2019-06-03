@@ -1,5 +1,6 @@
 ---
-title: Day One: What just happened?
+title: "Day One: What just happened?"
+description: "I am now officially unemployed. I am a software engineer with over 20 years of experience, without a job. I'm uncomfortable, nervous, anxious, and confused."
 date: "2019-06-01T17:25:03.284Z"
 ---
 
