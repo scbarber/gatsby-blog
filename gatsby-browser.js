@@ -1,2 +1,3 @@
 // custom typefaces
-import "typeface-lato"
+import "typeface-roboto"
+import "typeface-roboto-mono"

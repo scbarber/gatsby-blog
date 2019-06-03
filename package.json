@@ -30,9 +30,9 @@
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
     "react-typography": "^0.16.19",
-    "typeface-lato": "0.0.54",
-    "typography": "^0.16.19",
-    "typography-theme-noriega": "^0.16.19"
+    "typeface-roboto": "0.0.54",
+    "typeface-roboto-mono": "0.0.54",
+    "typography": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^1.17.1"
