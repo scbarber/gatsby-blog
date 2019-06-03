@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in the Pacific Northwest.
+              Written by a software engineer who lives and works in the Pacific Northwest.
             </p>
           </div>
         )
