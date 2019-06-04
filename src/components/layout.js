@@ -70,7 +70,9 @@ class Layout extends React.Component {
         >
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby</a>
+          <a href="https://www.gatsbyjs.org">Gatsby</a> deployed to 
+          {` `}
+          <a href="https://www.netlify.com">Netlify</a>
           <a style={{ float: `right`}} href="/rss.xml">RSS</a>
         </footer>
       </div>
