@@ -37,11 +37,9 @@ function Bio() {
                 borderRadius: `50%`,
               }}
             />
-            <p
-              style={{
-                paddingTop: rhythm(.5),
-              }}>
-              Written by a software engineer who lives and works in the Pacific Northwest.
+            <p>
+              Written by a software engineer who lives and works near the end of the Oregon Trail.
+              He has yet to die of dysentery.
             </p>
           </div>
         )
