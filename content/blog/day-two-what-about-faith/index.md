@@ -1,6 +1,6 @@
 ---
 title: "Day Two: What About Faith?"
-description: "Today is a day of waiting, with respect to employment, but as a man of faith, today is also a day in which I go to church for fellowship and encouragement."
+description: "I still think of Sunday as a day of rest, and while there are several businesses open on this day, I do not expect to hear back from any of the companies I’ve applied to. So today is to be a slow day, a day of waiting, with respect to employment. But as I am a man of faith, today is also a day in which I go to church to fellowship with my brothers and sisters in Christ, and hope to attain some measure of encouragement."
 date: "2019-06-02T14:10:32+07:00"
 tags: ["Unemployed", "Faith"]
 ---
