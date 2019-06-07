@@ -1,9 +1,9 @@
 import React from "react"
+import moment from 'moment';
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 
 class BlogIndex extends React.Component {
   render() {
@@ -17,23 +17,21 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <div key={node.fields.slug}>
-              <h3
-                style={{
-                  marginBottom: rhythm(1 / 4),
-                }}
-              >
-                <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
+            <article key={node.fields.slug}>
+              <h3>
+                <Link to={node.fields.slug}>
                   {title}
                 </Link>
               </h3>
-              <small>{node.frontmatter.date}</small>
+            <time datetime={node.frontmatter.date}>
+              {moment(node.frontmatter.date).format("D MMMM YYYY")}
+            </time>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,
                 }}
               />
-            </div>
+            </article>
           )
         })}
       </Layout>
@@ -58,7 +56,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "D MMMM YYYY")
+            date
             title
             description
           }

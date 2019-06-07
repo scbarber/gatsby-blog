@@ -1,8 +1,6 @@
 import React from "react"
 import { Link } from "gatsby"
 
-import { rhythm, scale } from "../utils/typography"
-
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
@@ -11,20 +9,8 @@ class Layout extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
-          style={{
-            ...scale(1.5),
-            marginBottom: rhythm(1.5),
-            marginTop: 0,
-            textAlign: "center"
-          }}
-        >
+        <h1>
           <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
             to={`/`}
           >
             {title}
@@ -33,18 +19,8 @@ class Layout extends React.Component {
       )
     } else {
       header = (
-        <h3
-          style={{
-            marginTop: 0,
-            textAlign: "center"
-          }}
-        >
+        <h3>
           <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
             to={`/`}
           >
             {title}
@@ -53,21 +29,10 @@ class Layout extends React.Component {
       )
     }
     return (
-      <div
-        style={{
-          marginLeft: `auto`,
-          marginRight: `auto`,
-          maxWidth: rhythm(28),
-          padding: `${rhythm(1.5)} ${rhythm(3 / 4)}`,
-        }}
-      >
+      <section>
         <header>{header}</header>
         <main>{children}</main>
-        <footer
-          style={{
-            fontSize: "smaller"
-          }}
-        >
+        <footer>
           © {new Date().getFullYear()}, Built with
           {` `}
           <a href="https://www.gatsbyjs.org">Gatsby</a> deployed to 
@@ -75,7 +40,7 @@ class Layout extends React.Component {
           <a href="https://www.netlify.com">Netlify</a>
           <a style={{ float: `right`}} href="/rss.xml">RSS</a>
         </footer>
-      </div>
+      </section>
     )
   }
 }

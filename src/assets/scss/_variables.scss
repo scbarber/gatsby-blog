@@ -1,0 +1,25 @@
+/** 
+ * Variables
+ */
+
+// Colors
+$color-base: #222;
+$color-red: #E83030;
+$color-blue: #4681CC;
+$color-orange: #F7A046;
+
+// Typographic
+$typographic-header-font-family: "Roboto Mono", sans-serif;
+$typographic-font-family: "Roboto", sans-serif;
+
+$typographic-root-font-size: 100;
+$typographic-base-font-size: 16px;
+$typographic-small-font-size: 14px;
+
+$typographic-base-line-height: 1.618;
+
+$typographic-leading: round(16 * ($typographic-root-font-size / 100) * $typographic-base-line-height);
+
+// Buttons
+$button-height: 35px;
+$button-border-radius: 20px;

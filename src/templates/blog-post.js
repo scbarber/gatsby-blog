@@ -1,10 +1,10 @@
 import React from "react"
+import moment from 'moment';
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -18,49 +18,38 @@ class BlogPostTemplate extends React.Component {
           title={post.frontmatter.title}
           description={post.frontmatter.description || post.excerpt}
         />
-        <h1>{post.frontmatter.title}</h1>
-        <p
-          style={{
-            ...scale(-1 / 5),
-            display: `block`,
-            marginBottom: rhythm(1),
-            marginTop: rhythm(-1),
-          }}
-        >
-          {post.frontmatter.date}
-        </p>
-        <div dangerouslySetInnerHTML={{ __html: post.html }} />
-        <hr
-          style={{
-            marginBottom: rhythm(1),
-          }}
-        />
-        <Bio />
+        <article>
+          <header>
+            <h1>{post.frontmatter.title}</h1>
+            <time datetime={post.frontmatter.date}>
+              {moment(post.frontmatter.date).format("D MMMM YYYY")}
+            </time>
+          </header>
+          <div dangerouslySetInnerHTML={{ __html: post.html }} />
+          <footer>
+            <hr />
+            <Bio />
+          </footer>
 
-        <ul
-          style={{
-            display: `flex`,
-            flexWrap: `wrap`,
-            justifyContent: `space-between`,
-            listStyle: `none`,
-            padding: 0,
-          }}
-        >
-          <li>
-            {previous && (
-              <Link to={previous.fields.slug} rel="prev">
-                ← {previous.frontmatter.title}
-              </Link>
-            )}
-          </li>
-          <li>
-            {next && (
-              <Link to={next.fields.slug} rel="next">
-                {next.frontmatter.title} →
-              </Link>
-            )}
-          </li>
-        </ul>
+          <nav>
+            <ul>
+              <li>
+                {previous && (
+                  <Link to={previous.fields.slug} rel="prev">
+                    ← {previous.frontmatter.title}
+                  </Link>
+                )}
+              </li>
+              <li>
+                {next && (
+                  <Link to={next.fields.slug} rel="next">
+                    {next.frontmatter.title} →
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </nav>
+        </article>
       </Layout>
     )
   }
@@ -82,7 +71,7 @@ export const pageQuery = graphql`
       html
       frontmatter {
         title
-        date(formatString: "D MMMM YYYY")
+        date
         description
       }
     }
