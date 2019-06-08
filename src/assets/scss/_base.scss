@@ -8,6 +8,8 @@ body {
     line-height: $typographic-base-line-height;
     font-size: $typographic-base-font-size;
     font-weight: 300;
+    word-wrap: break-word;
+    margin: 0;
 }
 
 a {
@@ -34,7 +36,7 @@ h6 {
 
 section {
     margin: 0 auto;
-    max-width: 721px;
+    max-width: 682px;
     padding: 39px 19px;
 
     header {
