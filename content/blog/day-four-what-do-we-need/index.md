@@ -2,7 +2,9 @@
 title: "Day Four: What Do We Need?"
 description: "I've struggled all my life with the word \"need\". I've tried to find that line between \"need\" and \"want\" and I'm not sure I've ever succeeded. Now that I'm unemployed there are several areas of my life, of our life, that I now look at and wonder, \"Do we <i>need</i> this, or do we <i>want</i> this? Can we live without this? What are the ramifications for going without this?\""
 date: "2019-06-04T17:48:03+07:00"
-tags: ["Unemployed", "Needs"]
+tags:
+  - "Unemployed"
+  - "Needs"
 ---
 
 Growing up in the public school system, they were teaching, and pushing us to adopt, [Maslow's Heirarchy of Needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). I still remember feeling uncomfortable with the pyramid (triangle, really, but I _still_ think of it as a pyramid) doubting that any one man could accurately sum up the needs of all people for all time. I had no trouble accepting that people need air to breath, food to eat, water to drink, and for the sake of sun burns and societal cooperation, we need clothing. The rest of it was dubious, especially the idea of esteem and "self-actualization" which no one was ever able to explain to me (if you cannot satisfactorily explain a thing to me, I cannot, in good conscience, accept it).

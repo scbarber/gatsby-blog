@@ -2,7 +2,8 @@
 title: "Day Six: Happy Birthday?"
 description: "I needed an evening off to rest. I also needed a full night’s sleep, but if the dark circles under my eyes are any indication, the sleep I got wasn’t enough. Nonetheless yesterday’s oppressive overtones have mostly faded. I’m still unemployed, and I’m still endlessly waiting for progress on any of my applications. Today shouldn’t be about me, though; today my eldest turns eleven."
 date: "2019-06-06T17:20:46+07:00"
-tags: ["Unemployed"]
+tags:
+  - "Unemployed"
 ---
 
 I needed an evening off to rest. I also needed a full night’s sleep, but if the dark circles under my eyes are any indication, the sleep I got wasn’t enough. Nonetheless yesterday’s oppressive overtones have mostly faded. I’m still unemployed, and I’m still endlessly waiting for progress on any of my applications. Today shouldn’t be about me, though; today my eldest turns eleven.
