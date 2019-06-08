@@ -102,6 +102,10 @@ section {
                 hr + div {
                     display: flex;
                     margin-bottom: 64px;
+
+                    p {
+                        margin: 0 0 26px 0;
+                    }
                 }
 
                 div.gatsby-image-wrapper {
