@@ -1,9 +1,9 @@
 import React from "react"
-import moment from 'moment';
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Date from "../components/Post/date"
 
 class BlogIndex extends React.Component {
   render() {
@@ -17,15 +17,15 @@ class BlogIndex extends React.Component {
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
-            <article key={node.fields.slug}>
-              <h3>
-                <Link to={node.fields.slug}>
-                  {title}
-                </Link>
-              </h3>
-            <time datetime={node.frontmatter.date}>
-              {moment(node.frontmatter.date).format("D MMMM YYYY")}
-            </time>
+            <article>
+              <header>
+                <h3>
+                  <Link to={node.fields.slug}>
+                    {title}
+                  </Link>
+                </h3>
+                <Date date={node.frontmatter.date} />
+              </header>
               <p
                 dangerouslySetInnerHTML={{
                   __html: node.frontmatter.description || node.excerpt,

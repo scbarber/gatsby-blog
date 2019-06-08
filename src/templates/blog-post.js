@@ -1,10 +1,10 @@
 import React from "react"
-import moment from 'moment';
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Date from "../components/Post/date"
 
 class BlogPostTemplate extends React.Component {
   render() {
@@ -21,9 +21,7 @@ class BlogPostTemplate extends React.Component {
         <article>
           <header>
             <h1>{post.frontmatter.title}</h1>
-            <time datetime={post.frontmatter.date}>
-              {moment(post.frontmatter.date).format("D MMMM YYYY")}
-            </time>
+            <Date date={post.frontmatter.date} />
           </header>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <footer>
