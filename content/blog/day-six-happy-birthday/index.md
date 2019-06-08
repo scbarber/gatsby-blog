@@ -23,4 +23,4 @@ In Kenneth Branagh’s “Murder on the Orient Express” there is a scene early
 ## Celebration
 Today is a birthday, and it should be celebrated, for the child of mine who is now eleven is precious to me. Presents were opened this morning. A trip to make art followed by a visit to the Humane Society to enjoy some kittens was had. I had to miss out on both of those, but not dinner. In honor of the birthday I’ve set aside the moratorium on dining out and we’ll enjoy a meal at my eldest’s favorite buffet.
 
-*[PTO]: Personal Time Off
+*[PTO]: Paid Time Off
