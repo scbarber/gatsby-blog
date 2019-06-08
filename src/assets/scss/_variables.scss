@@ -8,6 +8,9 @@ $color-red: #E83030;
 $color-blue: #4681CC;
 $color-orange: #F7A046;
 
+$color-gray: lighten($color-base, 40%);
+$color-gray-border: lighten($color-base, 70%);
+
 // Typographic
 $typographic-header-font-family: "Roboto Mono", sans-serif;
 $typographic-font-family: "Roboto", sans-serif;

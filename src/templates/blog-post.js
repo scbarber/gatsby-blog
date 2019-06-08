@@ -25,7 +25,6 @@ class BlogPostTemplate extends React.Component {
           </header>
           <div dangerouslySetInnerHTML={{ __html: post.html }} />
           <footer>
-            <hr />
             <Bio />
           </footer>
 
