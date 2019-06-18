@@ -12,6 +12,12 @@ body {
     margin: 0;
 }
 
+.footnotes {
+    font-size: smaller;
+    margin: 64px 26px;
+    hr { display: none; }
+}
+
 a {
     text-decoration: none;
     color: $color-blue;
