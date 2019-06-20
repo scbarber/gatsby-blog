@@ -15,7 +15,14 @@ body {
 .footnotes {
     font-size: smaller;
     margin: 64px 26px;
-    hr { display: none; }
+
+    hr { 
+        width: 8em;
+        border-color: $color-gray;
+        border-style: solid;
+        border-width: 1px 0 0 0;
+        margin-left: 0;
+    }
 }
 
 a {
