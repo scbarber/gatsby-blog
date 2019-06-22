@@ -1,7 +1,7 @@
 ---
 title: "Day Eight: Something Approaching Rest"
 description: "I rebelled against my inner-self today. I made overnight waffles for our Saturday breakfast. I had a conversation with my wife. I read my Bible and talked with God in a quiet moment of solitude. I worked on the tooling behind this blog. I did some reading. Then I spent the rest of the day playing Oblivion while the family watched. I didn’t allow myself to get caught up in what I thought I <i>ought</i> to do. I did what I promised myself I would do."
-date: "2019-06-08T20:08:51+07:00"
+date: "2019-06-08T20:08:51-07:00"
 tags:
   - "Unemployed"
 ---

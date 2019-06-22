@@ -1,7 +1,7 @@
 ---
 title: "Day Seven: A Painful PTO Lesson"
 description: "Friday has come to a close. My body is showing signs of prolonged elevated stress, which worries me. The deadline I thought I had was but a figment of my imagination, allowing me some breathing room to get things done right. The bills were paid, and I learned I made a mistake last month that I regret."
-date: "2019-06-07T20:15:33+07:00"
+date: "2019-06-07T20:15:33-07:00"
 tags:
   - "Unemployed"
 ---

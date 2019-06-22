@@ -1,7 +1,7 @@
 ---
 title: "Day Nine: Skewed Rest"
 description: "I usually think of Sundays as a day of rest, but last night I had in the back of my mind the niggling feeling that there wouldn’t be real rest today. There are always household chores to attend to, and most of them can be scheduled. Then there are days when the floor drain in one’s basement backs up, disgorging foul smelling water, and black gobs of some unknown granular substance, prompting some cleaning. But hey, that part of the basement has a clean floor now!"
-date: "2019-06-09T20:00:39+07:00"
+date: "2019-06-09T20:00:39-07:00"
 tags:
   - "Unemployed"
 ---

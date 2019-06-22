@@ -1,7 +1,7 @@
 ---
 title: "Day Eighteen: Negotiation"
 description: "There’s not much I’m going to say about the day other than I’m negotiating a job offer. It’s been a tense day as I had to weigh and judge how I would reply, and then to wait. So far, I’ve heard nothing, which I hope is not a sign that I upset things."
-date: "2019-06-18T22:35:52+07:00"
+date: "2019-06-18T22:35:52-07:00"
 tags:
   - "Unemployed"
 ---

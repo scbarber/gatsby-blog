@@ -1,7 +1,7 @@
 ---
 title: "Day One: What Just Happened?"
 description: "I am now officially unemployed. Again. This is the second time I've been forcibly unemployed. I've been laid off for the third (possibly fourth) time in my life. So here I am, a software engineer with over twenty years of experience, without a job. I'm uncomfortable, nervous, anxious, and confused."
-date: "2019-06-01T17:25:03+07:00"
+date: "2019-06-01T17:25:03-07:00"
 tags:
   - "Unemployed"
 ---

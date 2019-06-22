@@ -1,7 +1,7 @@
 ---
 title: "Day Nineteen:  Offer Accepted"
 description: "After an evening of radio silence I awoke and found an email requesting an afternoon meeting. That’s not much to go on; there are no lines to read between (an expression that has always struck me as frightening: there’s only whitespace between lines; if you can read whitespace....). I didn’t know if I was heading into a good meeting, a tense meeting, or an outright bad one. I’m not adept when it comes to negotiating; I can’t “read” people; all people are opaque to me."
-date: "2019-06-19T22:27:41+07:00"
+date: "2019-06-19T22:27:41-07:00"
 tags:
   - "Unemployed"
 ---

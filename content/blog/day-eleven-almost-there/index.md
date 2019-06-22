@@ -1,7 +1,7 @@
 ---
 title: "Day Twelve: Cold and Exhausted"
 description: "It’s been warming up where I live. Grass has also been pollenating, and that’s my main allergen. So, we keep the windows closed and run the air conditioner in the late afternoons and at night. I work in the basement. This morning it was 64ºF in the basement, but 70ºF in the rest of the house. I couldn’t bring myself to turn on the heat. So, I was cold all morning."
-date: "2019-06-12T20:40:22+07:00"
+date: "2019-06-12T20:40:22-07:00"
 tags:
   - "Unemployed"
 ---

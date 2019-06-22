@@ -1,7 +1,7 @@
 ---
 title: "Day Eleven: Almost There?"
 description: "Yesterday’s headache persisted through bedtime. I took the wife’s advice and ignored any internal imperative to wake up at a given time. Her point: I’m self-employed; I’m not going to fire myself for showing up late. She also recommended I knock off early and rest prior to my interview (I forgot to do that; don’t tell her, she might fire me). I used to get up between 7am and 7:30am; the clock was well past 8:20am when I first opened my eyes. I needed that."
-date: "2019-06-11T19:48:18+07:00"
+date: "2019-06-11T19:48:18-07:00"
 tags:
   - "Unemployed"
   - "Interview"

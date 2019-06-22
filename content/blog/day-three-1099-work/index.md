@@ -1,7 +1,7 @@
 ---
 title: "Day Three: 1099 Work"
 description: "I didn’t want to wake up today. I’ve been running on a stress-induced sleep deficit for several months now, but I have a week of 1099 contract work."
-date: "2019-06-03T20:16:03+07:00"
+date: "2019-06-03T20:16:03-07:00"
 tags:
   - "Unemployed"
 ---

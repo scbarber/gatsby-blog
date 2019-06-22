@@ -1,7 +1,7 @@
 ---
 title: "Day Ten: Round...FOUR?!"
 description: "Of the approximate four dozen applications I’ve submitted, one company has consistently marched forward, and tomorrow I will have my fourth interview with this company. I got the news early in the morning, and promptly agreed, rather hoping to get it done and over with, because interviews take a lot out of me. It wasn’t until a little after lunch that I realized the anticipatory stress of yet another interview had given me a headache, and the day was not yet over."
-date: "2019-06-10T22:41:44+07:00"
+date: "2019-06-10T22:41:44-07:00"
 tags:
   - "Unemployed"
   - "Interview"

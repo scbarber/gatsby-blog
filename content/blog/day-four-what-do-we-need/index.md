@@ -1,7 +1,7 @@
 ---
 title: "Day Four: What Do We Need?"
 description: "I've struggled all my life with the word \"need\". I've tried to find that line between \"need\" and \"want\" and I'm not sure I've ever succeeded. Now that I'm unemployed there are several areas of my life, of our life, that I now look at and wonder, \"Do we <i>need</i> this, or do we <i>want</i> this? Can we live without this? What are the ramifications for going without this?\""
-date: "2019-06-04T17:48:03+07:00"
+date: "2019-06-04T17:48:03-07:00"
 tags:
   - "Unemployed"
   - "Needs"

@@ -1,7 +1,7 @@
 ---
 title: "Day Thirteen: Metaphors"
 description: "I slept until almost 10am. It’s a Thursday and I deliciously overslept, and I don’t care. There were no consequences either. I slept, I woke up, I lingered in bed, affording myself time to fully awaken, then I started my day. I didn’t need to care about other people; I only needed to care about me, and that’s what I’ve done today."
-date: "2019-06-13T16:09:47+07:00"
+date: "2019-06-13T16:09:47-07:00"
 tags:
   - "Unemployed"
   - "Writing"

@@ -22,7 +22,7 @@
 			"---",
 			"title: \"$1\"",
 			"description: \"\"",
-			"date: \"$CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND+07:00\"",
+			"date: \"$CURRENT_YEAR-$CURRENT_MONTH-${CURRENT_DATE}T$CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND-07:00\"",
 			"tags:",
 			"  - \"Unemployed\"",
 			"---",

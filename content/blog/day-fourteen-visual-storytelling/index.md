@@ -1,7 +1,7 @@
 ---
 title: "Day Fourteen: Visual Storytelling"
 description: "The last couple of days I’ve been able to fall asleep at roughly the usual time, but I’ve been sleeping more than two hours longer. I feel better for it, and I lament that my life sometimes ends up where I lose sleep. Ironically, I am <i>not</i> losing sleep over not having a job; I feel like I should be, but I’m not."
-date: "2019-06-14T20:04:46+07:00"
+date: "2019-06-14T20:04:46-07:00"
 tags:
   - "Unemployed"
 ---

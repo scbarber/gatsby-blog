@@ -1,7 +1,7 @@
 ---
 title: "Day Seventeen: A Job Offer"
 description: "I’m getting used to sleeping until my body says it has had enough. It’s a relief to allow myself what has become, but should never be, the luxury of Enough Sleep. Shortly after waking up I checked my email and had…a request to meet and ”discuss an employment opportunity.” I agreed on the suggested time of 5pm and spent my day wondering about the difference between an “employment opportunity” and a “job offer.” It’s often that I ponder such differences; it’s a function of my Asperger’s Syndrome (words are supreme over context)."
-date: "2019-06-17T20:39:43+07:00"
+date: "2019-06-17T20:39:43-07:00"
 tags:
   - "Unemployed"
 ---

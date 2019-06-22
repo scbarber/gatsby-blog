@@ -1,7 +1,7 @@
 ---
 title: "Day Fifteen: Sick Day"
 description: "I felt fine when I went to bed last night. I didn’t sleep great, but that had more to do with poor ventilation than anything else. I felt okay when I got up. I made coffee. I mixed up some pancakes. By the time the first pancake hit the table, I knew I was done."
-date: "2019-06-15T19:55:40+07:00"
+date: "2019-06-15T19:55:40-07:00"
 tags:
   - "Unemployed"
 ---

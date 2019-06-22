@@ -1,7 +1,7 @@
 ---
 title: "Day Sixteen: Smells Like Ribs"
 description: "It’s Father’s Day. Mine is away grading AP Stat’s exams. I slept until nearly 11am; my wife thinks I’m making up for four years of burnout. I think my body is fighting off something that made me ill yesterday, and is contending with chronic stress. Either way, I did quite a lot of sleeping. After a light breakfast I did some reading, then took a nap. I’ve half a mind to become concerned with all the sleeping I’ve been doing."
-date: "2019-06-16T20:11:00+07:00"
+date: "2019-06-16T20:11:00-07:00"
 tags:
   - "Unemployed"
 ---
