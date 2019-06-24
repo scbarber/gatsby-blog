@@ -5,6 +5,7 @@ date: "2019-06-13T16:09:47-07:00"
 tags:
   - "Unemployed"
   - "Writing"
+  - "Asperger's Syndrome"
 ---
 
 

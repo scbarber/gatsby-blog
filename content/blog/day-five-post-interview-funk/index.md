@@ -5,6 +5,7 @@ date: "2019-06-05T17:24:03-07:00"
 tags:
   - "Unemployed"
   - "Interview"
+  - "Asperger's Syndrome"
 ---
 
 I had two interviews today; one an initial screening, the other a third-round interview. Now I am exhausted, drained, and feeling rather low. In fact, I’m weathering a storm of insignificance and inadequacy. Losing my job was a hard blow, but even harder is enduring the scrutiny of the interview process.

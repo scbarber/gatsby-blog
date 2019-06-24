@@ -4,6 +4,7 @@ description: "Today, my thoughts turned to a topic I don’t often visit. There 
 date: "2019-06-22T11:33:11-07:00"
 tags:
   - "Between Time"
+  - "Asperger's Syndrome"
 ---
 
 Today, my thoughts turned to a topic I don’t often visit. There is a flurry of mental activity in this Between Time. I’ve used the term “decompress” in times like this, times when the pattern of my life might, or will, change. I’m mildly amused to note that my life did change on the first of this month, but it wasn’t until a new income stream was secured that my mind was free to process the changes. I had a life with a group of people, in a particular culture, working on a specific product, doing it in a mode we all agreed upon; that life is over. Now I face a new life with a new group of people, with a new culture, a new product, and probably new modes of work. In some ways it feels like a fresh start and that got me wondering what I want.
