@@ -9,7 +9,7 @@ tags:
 
 I had two interviews today; one an initial screening, the other a third-round interview. Now I am exhausted, drained, and feeling rather low. In fact, I’m weathering a storm of insignificance and inadequacy. Losing my job was a hard blow, but even harder is enduring the scrutiny of the interview process.
 
-## Judement
+## Judgement
 I hate interviews. I sincerely wish to avoid them. Interviews hit me the same way school social dynamics did. It’s time to measure me, to see if I will fit with the company culture, to see if I meet their expectations, and even to assign a monetary value to me. At the end of a successful interview process is the inevitable summing up of my worth. There’s nothing quite so humbling as to see a number and know that’s your value to the company; there is your worth in their eyes. But, I must endure interviews if I am to have a job, so I must also endure the questions, the inscrutable looks, and ultimately, the judgement.
 
 ## Impact
